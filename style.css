@@ -37,4 +37,20 @@ body {
     padding: 1em;
     color: var(--branco-principal);
     display: block;
+    text-decoration: none;
+}
+
+.botao_secundrio {
+    background-color: transparent;
+    border: 2px solid var(--branco-principal);
+}
+
+.container__aviso {
+    font-size: 12px;
+    color: var(--cinza-secundario);
+}
+
+.conteiner__titulo {
+    font-size: 28px;
+    font-weight: 700;
 }
